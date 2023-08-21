@@ -9,10 +9,10 @@
     <color name="white">#FFFFFFFF</color>
 
 
-    <color name="royal_blue_dark">#5927BF</color>
-    <color name="dark_blue">#7735FE</color>
-    <color name="dark_purple">#9127BF</color>
-    <color name="purple">#B835FE</color>
+    <color name="royal_blue_dark">#2B2A30</color>
+    <color name="dark_blue">#0C0C0C</color>
+    <color name="dark_purple">#100E12</color>
+    <color name="purple">#403846</color>
     <color name="green">#4FC281</color>
     <color name="red">#D6455D</color>
 
