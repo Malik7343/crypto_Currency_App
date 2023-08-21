@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CryptoCurrency App</string>
+    <string name="_1m">1 min</string>
+    <string name="_1w">1 weak</string>
+    <string name="_1d">1 day</string>
+    <string name="_4h">4 hour</string>
+    <string name="_1h">1 hour</string>
+    <string name="_15m">15 min</string>
+
+</resources>
