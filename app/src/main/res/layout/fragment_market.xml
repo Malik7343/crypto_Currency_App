@@ -26,7 +26,7 @@
             android:layout_marginTop="16dp"
             android:background="@drawable/search_field_bg"
             android:ems="10"
-            android:hint="search_hint"
+            android:hint="search coins..."
             android:inputType="text"
             android:paddingStart="20dp"
             android:paddingTop="12dp"
